@@ -2,11 +2,11 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "@babel/cli": "^7.20.7",
-    "@babel/core": "^7.20.12",
-    "@babel/preset-env": "^7.20.2",
-    "browserify": "^16.5.0",
-    "glob": "^7.1.6",
-    "terser": "^5.16.1"
+    "@babel/cli": "^7.24.8",
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.4",
+    "browserify": "^16.5.2",
+    "glob": "^7.2.3",
+    "terser": "^5.31.6"
   }
 }
